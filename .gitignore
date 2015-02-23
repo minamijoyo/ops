@@ -1,0 +1,12 @@
+_UpgradeReport_Files/
+Debug/
+Release/
+result/
+setting/
+sh/
+*.old
+*.suo
+*.vcproj
+*.ncb
+*.user
+UpgradeLog.XML
